@@ -11,10 +11,6 @@ Pod::Spec.new do |s|
   s.version          = '0.1.0'
   s.summary          = 'MJAppCapability use to get ability of some action.'
 
-  s.description      = <<-DESC
-TODO: Add long description of the pod here.
-                       DESC
-
   s.homepage         = 'https://github.com/Musjoy/MJAppCapability'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Raymomd' => 'Ray.musjoy@gmail.com' }
