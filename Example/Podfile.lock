@@ -1,0 +1,16 @@
+PODS:
+  - MJAppCapability (0.1.0)
+
+DEPENDENCIES:
+  - MJAppCapability (from `../`)
+
+EXTERNAL SOURCES:
+  MJAppCapability:
+    :path: ../
+
+SPEC CHECKSUMS:
+  MJAppCapability: 9c3e9324272bce4b9a6acbc5d83c60df8c818dc3
+
+PODFILE CHECKSUM: 11e5d72722d50bdd84c751c67aa20997e6396b34
+
+COCOAPODS: 1.2.1
