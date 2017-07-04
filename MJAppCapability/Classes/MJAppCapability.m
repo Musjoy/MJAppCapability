@@ -45,7 +45,7 @@
 
 + (BOOL)haveAbilityOf:(NSString *)action
 {
-    return [[[self sharedInstance] dicAbility] objectForKey:action]?YES:NO;
+    return [[[[self sharedInstance] dicAbility] objectForKey:action] boolValue];
 }
 
 - (void)reloadData
